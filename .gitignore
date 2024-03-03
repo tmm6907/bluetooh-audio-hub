@@ -1,0 +1,7 @@
+*.env
+Results
+Include
+Lib
+Scripts
+*.cfg
+*.pdf
